@@ -1,0 +1,2 @@
+1. Run SITL: In terminal - open '/ArduCopter' and run 'sim_vehicle.py --console'
+2. In another terminal window, open '/Dronekit' and run 'python3 hello.py' (takeoff and land)
